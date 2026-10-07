@@ -1,6 +1,7 @@
 I'm André Stone, a mechanical engineer and **0→1 product inventor**. I build physical products from early concept and prototype through to production.
 
-### Currently building
+
+Currently building:
 
 **Leaf**: Exploring version control and collaboration for parametric CAD.
 
@@ -8,8 +9,7 @@ I'm André Stone, a mechanical engineer and **0→1 product inventor**. I build 
 
 **Project Hikari**: Exploring what a personal AI companion could look like beyond the phone.
 
-*Most of that work is currently in private repositories. I'm starting to publish selected projects, experiments, and technical work here as I go.*
+*(Most of this work is currently being done in private repositories.)*
 
-### I build with
 
-Mechanical design · CAD · Prototyping · DFM · Embedded systems · AI-assisted development
+*Mechanical design · CAD · Prototyping · DFM · Embedded systems · AI-assisted development*
