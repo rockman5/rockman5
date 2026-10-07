@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm André Stone, a mechanical engineer and **0→1 product inventor**. I build physical products from early concept and prototype through to production.
 
-<!--
-**rockman5/rockman5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently building
 
-Here are some ideas to get you started:
+**Leaf**: Exploring version control and collaboration for parametric CAD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Komi**: A small physical companion I've taken from concept through hardware, firmware, manufacturing, and production.
+
+**Project Hikari**: Exploring what a personal AI companion could look like beyond the phone.
+
+*Most of that work is currently in private repositories. I'm starting to publish selected projects, experiments, and technical work here as I go.*
+
+### I build with
+
+Mechanical design · CAD · Prototyping · DFM · Embedded systems · AI-assisted development
