@@ -1,4 +1,4 @@
-I'm André Stone, a mechanical engineer and **0→1 product inventor**. I build physical products from early concept and prototype through to production.
+I'm André Stone, a mechanical engineer and **0→1 product inventor**. I build physical products from prototype to production.
 
 <br>
 
